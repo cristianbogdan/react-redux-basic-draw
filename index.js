@@ -23,7 +23,7 @@ const store= createStore(reducer);
 
 /* The main app, uses a ShapeForm and a Canvas
 */
-class App extends Component {
+export class App extends Component {
   constructor() {
     super();
   }

@@ -1,0 +1,20 @@
+h1, p {
+  font-family: Lato;
+}
+.shapeCanvas{
+   height:300px;
+   border:solid;
+   border-color:lightgrey;
+}
+
+.shape{
+  fill-opacity:0;
+  stroke:black;
+  stroke-width:1;
+}
+
+.currentShape{
+  fill-opacity:0;
+  stroke:red;
+  stroke-width:2;
+}
